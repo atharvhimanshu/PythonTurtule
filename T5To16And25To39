@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Sep 29 11:50:51 2020
+
+@author: mhimanshu
+"""
+
+"""
+     """
+for x in range (17):
+    if x >4:
+        print(x)
+for x in range (40):
+    if x >24:
+        print(x)  
